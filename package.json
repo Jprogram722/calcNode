@@ -1,0 +1,22 @@
+{
+  "name": "nodecalc",
+  "version": "1.0.0",
+  "description": "calculator using node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "calcNode"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Jared",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
